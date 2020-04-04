@@ -1,0 +1,27 @@
+.jumbotron {
+    padding: 20px 0;
+    border-radius: 10px;
+    background-color: transparent;
+}
+
+.display-4 {
+    text-align: center;
+    color: #fff;
+    font-weight: 400;
+}
+
+.list-group-item {
+    font-size: 20px;
+    display: flex;
+    background-color: transparent;
+    border: 1px solid #fff;
+}
+
+.list-group-item input {
+    border: none;
+    outline: none;
+    width: 100%;
+    background-color: transparent;
+    color: #fff;
+    font-weight: 500;
+}
